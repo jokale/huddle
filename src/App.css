@@ -64,7 +64,15 @@ p {
 /* logo */
 
 img#logo {
-  position: absolute; top: 50px; left: 20px;
-  width:15em; 
-  height:3em;
+  position: absolute; top: 50px; left: 120px;
+  width:10em; 
+  height:4em;
+}
+
+
+/* mockup image */
+
+img#mockup{
+  position: absolute; top: 190px; left: 120px;
+  width: 41em;
 }
