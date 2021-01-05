@@ -76,3 +76,25 @@ img#mockup{
   position: absolute; top: 190px; left: 120px;
   width: 41em;
 }
+
+
+img#facebook {
+  position: absolute; bottom: 190px; right: 300px;
+  width: 0.8em;
+  fill: white;
+  filter:   saturate(100) hue-rotate(241.5deg);
+}
+
+img#twitter {
+  position: absolute; bottom: 190px; right: 320px;
+  width: 0.8em;
+  fill: white;
+  filter:   saturate(100) hue-rotate(241.5deg);
+}
+
+img#instagram {
+  position: absolute; bottom: 190px; right: 280px;
+  width: 0.8em;
+  fill: white;
+  filter:   saturate(100) hue-rotate(241.5deg);
+}
