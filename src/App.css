@@ -65,4 +65,6 @@ p {
 
 img#logo {
   position: absolute; top: 50px; left: 20px;
+  width:15em; 
+  height:3em;
 }
