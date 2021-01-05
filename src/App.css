@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+html {
+ background-color:  hsl(257, 40%, 49%);
+ color: white;
+}
+
+/* text  */
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400px;
+}
