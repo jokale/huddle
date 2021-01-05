@@ -98,3 +98,20 @@ img#instagram {
 }
 
 
+button{
+  border-radius: 30px;
+  background-color: white;
+  position: absolute; top: 420px; right: 470px;
+  width: 155px;
+  height: 40px;
+  padding: 1px;
+  color: hsl(257, 40%, 49%);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400px;
+  font-size: medium;
+  text-align: center;
+  border: none;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+
+}
